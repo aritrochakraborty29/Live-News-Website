@@ -8,4 +8,4 @@
 ![REsponsive_site](https://github.com/aritrochakraborty29/Live-News-Website/blob/main/Capture1.PNG)
 
 
-#### Don't forget to * the REPO
+#### Don't forget to` * `the REPO
