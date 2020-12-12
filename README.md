@@ -5,7 +5,7 @@
 
 ![pig_dice_game_ss](https://github.com/aritrochakraborty29/Live-News-Website/blob/main/20201211_234424.gif)
 
-![REsponsive_site](https://github.com/aritrochakraborty29/Live-News-Website/blob/main/thumb.jpg)
+![REsponsive_site](https://github.com/aritrochakraborty29/Live-News-Website/blob/main/Capture1.PNG)
 
 
 #### Don't forget to * the REPO
